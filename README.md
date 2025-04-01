@@ -1,4 +1,4 @@
-# Welcome to Woody’s Data Science Portfolio 🤠
+## Welcome to Woody’s Data Science Portfolio 🤠
 
 Howdy, partner! I’m Woody—the sheriff of this portfolio and a student on a journey to wrangle data, uncover insights, and tell stories with code.
 
@@ -6,13 +6,13 @@ This portfolio showcases my growing experience in data science, including course
 
 ---
 
-## Education
+### Education
 
 **Bachelor of Science in Toy Technology & Data Analytics**  
 *Pixar University*  
 Expected Graduation: 2025
 
-## Work experience
+### Work experience
 **Deputy Data Analyst**
 Andy's Room Operations, Toy Story Division
 2023 – Present
@@ -20,7 +20,7 @@ Andy's Room Operations, Toy Story Division
 - Led nightly inventory checks to track missing toys
 - Collaborated with Buzz Lightyear to model optimal shelf placement of toys
 
-## Course projects
+### Course projects
 
 - 🐎 Horsepower vs. Hat Size: A Regression Study
 Explored the relationship between cowboy hat size and trusty steed speed across the wild west using linear regression in R. Included data cleaning, visualization, and model evaluation.
