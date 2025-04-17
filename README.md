@@ -25,5 +25,7 @@ Andy's Room Operations, Toy Story Division
 - 🐎 Horsepower vs. Hat Size: A Regression Study
 Explored the relationship between cowboy hat size and trusty steed speed across the wild west using linear regression in R. Included data cleaning, visualization, and model evaluation.
 
+View the report in [html](https://stat228.github.io/test_mini_project2/test_notebook.html) and [pdf](https://stat228.github.io/test_mini_project2/test_notebook.pdf) formats.
+
 - 🧸 Toybox Trends: Analyzing 10 Years of Toy Sales
 Performed exploratory data analysis on global toy sales data. Visualized changing trends over time and identified the rise of STEM-related toys.
