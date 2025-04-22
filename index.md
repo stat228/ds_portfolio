@@ -1,6 +1,7 @@
 ---
-title: Welcome to Woody’s Data Science Portfolio 🤠
 ---
+
+# Welcome to Woody’s Data Science Portfolio 🤠
 
 ### Howdy, partner!
 
