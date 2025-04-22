@@ -1,4 +1,5 @@
 ---
+layout: home
 ---
 
 # Welcome to Woody’s Data Science Portfolio 🤠
