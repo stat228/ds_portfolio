@@ -1,6 +1,10 @@
-### Welcome to Woody’s Data Science Portfolio 🤠
+---
+title: Welcome to Woody’s Data Science Portfolio 🤠
+---
 
-Howdy, partner! I’m Woody—the sheriff of this portfolio and a student on a journey to wrangle data, uncover insights, and tell stories with code.
+### Howdy, partner!
+
+I’m Woody -- the sheriff of this portfolio and a student on a journey to wrangle data, uncover insights, and tell stories with code.
 
 This portfolio showcases my growing experience in data science, including course projects, independent work, and collaborative efforts. Whether it’s exploring toy trends or visualizing rootin’-tootin’ predictions, I’m here to learn—and have a little fun along the way.
 
