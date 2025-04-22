@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Woody’s Data Science Portfolio
+title: Data Science Portfolio
 ---
 
 ### Howdy, partner!
